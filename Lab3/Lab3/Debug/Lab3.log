@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\olejk\desktop\steam\lab3\lab3\source.cpp(13): warning C4101: result: неиспользованная локальная переменная
+  Lab3.vcxproj -> C:\Users\olejk\Desktop\STEAM\Lab3\Debug\Lab3.exe
